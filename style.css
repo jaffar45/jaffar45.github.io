@@ -1,0 +1,40 @@
+.imgslider{
+	max-width: 100vw;
+}
+.smaller_text{
+	font-size: 0.7em;
+}
+.card-title{
+	font-weight: bold;
+	font-size: 1.7em;
+}
+.card-img-top {
+	width: 100%;
+	height: 30vw;
+	object-fit: cover;
+}
+.nav-pills{
+	padding: 1em;
+}
+.paraheader{
+	font-size: 2em;
+}
+.ligne{
+	margin-top: 2em;
+	border-top: solid 1.5px black;
+}
+.hunters{
+	font-weight: bold;
+}
+.future_hyperlink{
+	text-decoration: underline;
+}
+.card-header{
+	font-weight: bold;
+}
+.thumbs{
+	max-width: 10vw;
+}
+.form-group{
+	max-width: 100%;
+}

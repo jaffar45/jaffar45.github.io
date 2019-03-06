@@ -1,0 +1,39 @@
+.card-deck
+{
+	font-family: sans-serif;
+}
+.card-deck img{
+	opacity: 0.5;
+}
+.card:hover img{
+	opacity:1;	
+}
+
+.card:hover .test p{
+	opacity: 0;	
+}
+.text1 {
+	background-color: rgb(269,269,269);
+	opacity: 0.8;
+	border-radius: 0.5vw;
+	text-align: center;
+	font-size: 1.7vw;
+	color: rgb(0,0,0);
+}
+.thousand {
+	color: #FF4500;
+}
+.text2 {
+	font-size: 4vw;
+	position: absolute;
+	top: 20%;
+	left: 10%;
+	padding: 1vw;
+	color: white;
+	z-index: 1;
+}
+.card:hover .gandalf p{
+	top:25vw;
+	left: 10vw;
+	font-size: 2vw;
+}
