@@ -99,7 +99,7 @@ p{
 /*class for the 3 deck images*/
 .card-img-top {
 	width: 100%;
-	height: auto;
+	height: 30vw;
 	object-fit: cover;
 	padding: 0.5vw;
 }
@@ -117,7 +117,11 @@ p{
 .reward{
 	padding-top: 2vw;
 }
-
+/*class for the line breaks*/
+.ligne{
+	margin-top: 2em;
+	border-top: solid 1.5px black;
+}
 /*class for the Media object/best hunters*/
 .hunters{
 	font-weight: bold;
